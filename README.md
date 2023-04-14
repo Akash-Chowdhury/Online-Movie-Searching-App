@@ -8,7 +8,7 @@ To see this project in action, go to [Demo TMDB Clone](https://tmdb-clone.fireba
 - Clone this repo
 
   ```
-  git clone https://github.com/finmavis/tmdb-clone.git
+  git clone https://github.com/Akash-Chowdhury/MOVIZ.git
   ```
 
 - Navigate to the root folder and install all dependencies
