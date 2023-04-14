@@ -20,12 +20,12 @@ To see this project in action, go to [Demo TMDB Clone](https://tmdb-clone.fireba
   npm install
   ```
 
-- Grab an API from [TMDB](https://www.themoviedb.org). Login using your account and navigate to [TMDB Account Settings](https://www.themoviedb.org/settings/api). Copy API Key (v3 auth) and create **_.env.local_** in root directory of project
+- Grab an API from [TMDB](https://www.themoviedb.org). Login using your account and navigate to [TMDB Account Settings](https://www.themoviedb.org/settings/api). Copy API Read Access Token (v4 auth) and create **_.envl_** file in root directory of project
 
-- Paste this to your **_.env.local_** file
+- Paste this to your **_.env_** file
 
   ```
-  REACT_APP_API_KEY=PASTE_YOUR_API_KEY_HERE
+  VITE_APP_TMDB_TOKEN=PASTE_YOUR_TMDB_TOKEN
   ```
 
   And save it.
