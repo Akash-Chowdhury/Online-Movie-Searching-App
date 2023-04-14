@@ -14,7 +14,7 @@ To see this project in action, go to [Demo TMDB Clone](https://tmdb-clone.fireba
 - Navigate to the root folder and install all dependencies
 
 
-  if you're using npm (https://www.npmjs.com) :
+  if you're using npm :
 
   ```
   npm install
@@ -30,6 +30,6 @@ To see this project in action, go to [Demo TMDB Clone](https://tmdb-clone.fireba
 
   And save it.
 
-- Now run **npm run start**
+- Now run **npm run dev**
 
 - Happy hacking!
