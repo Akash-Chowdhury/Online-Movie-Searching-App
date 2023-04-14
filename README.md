@@ -25,7 +25,7 @@ To see this project in action, go to [Demo TMDB Clone](https://tmdb-clone.fireba
 - Paste this to your **_.env_** file
 
   ```
-  VITE_APP_TMDB_TOKEN=PASTE_YOUR_TMDB_TOKEN
+  VITE_APP_TMDB_TOKEN = PASTE_YOUR_TMDB_TOKEN
   ```
 
   And save it.
