@@ -1,4 +1,4 @@
-# MOVIZ app
+# Online Movie Searching app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Using API from [TMDB](https://www.themoviedb.org).<br>
 To see this project in action, go to [Demo TMDB Clone](https://tmdb-clone.firebaseapp.com)
