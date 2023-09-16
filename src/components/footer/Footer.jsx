@@ -15,7 +15,7 @@ const Footer = () => {
         <footer className="footer">
             <ContentWrapper>
                 <div className="infoText">
-                <strong>&copy; 2023 Created by Akash Chowdhury.  </strong>
+                <strong>&copy; 2023.  </strong>
      All rights reserved.
                 </div>
             </ContentWrapper>
